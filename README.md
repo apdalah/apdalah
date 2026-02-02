@@ -21,6 +21,7 @@ I am a highly analytical **Systems Engineer** with a background in Power Distrib
 - **Languages:** C++, PHP (Laravel), SQL, Python (Basics)
 - **Domain Expertise:** Smart Grid Systems, SCADA, System Troubleshooting, Technical Operations
 - **Current Focus:** Deep-diving into Memory Management and Algorithm Optimization
+  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---

@@ -33,8 +33,10 @@ My experience at **Saudi Electricity Company (SEC)** and the **Ministry of Elect
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [abdallah-yosri](https://www.linkedin.com/in/abdallah-yosri-6304401a6/)
+- **LinkedIn:** [abdullah-uosry](www.linkedin.com/in/abdullah-uosry-6304401a6)
 - **Portfolio:** *Coming Soon (under development in .NET)*
+
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=apdalah&show_icons=true&theme=radical)
 
 ---
 *“Engineers don't just build things; we solve problems. Whether it's a power grid or a backend architecture, the logic remains the same.”*

@@ -28,7 +28,6 @@ I am a highly analytical **Systems Engineer** with a background in Power Distrib
 
 ### 📈 Career Background
 My experience at **Saudi Electricity Company (SEC)** and the **Ministry of Electricity** taught me the importance of high-availability systems and mission-critical reliability. I apply this same "Zero-Failure" mindset to the code I write.
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=apdalah&show_icons=true&theme=radical)
 
 ---
 
